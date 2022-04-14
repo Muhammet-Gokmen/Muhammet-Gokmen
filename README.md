@@ -5,7 +5,7 @@
 
 ### What I'm using ? 🛠
 
-I prefer React & React Native for web/mobile front-end development.
+I am working on AWS/Devops.
 <br/>
 
 - Python, HTML5, CSS3, React, React Native, Git, GitHub
