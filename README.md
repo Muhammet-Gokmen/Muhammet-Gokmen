@@ -8,7 +8,7 @@
 I am working on AWS/Devops.
 <br/>
 
-- Python, HTML5, CSS3, Network, React Native, Git, GitHub
+- Python, HTML5, CSS3, Network,SQL, Git, GitHub,Linux
 
 - 💬 Ask  me about anything that you want to learn
 
