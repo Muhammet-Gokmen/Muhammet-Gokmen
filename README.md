@@ -8,7 +8,7 @@
 I am working on AWS/DevOps.
 <br/>
 
-- Python, HTML5, CSS3, Network,SQL, Git, GitHub,Linux,CDLC.
+- Python, HTML5, CSS3, Network,SQL, Git, GitHub,Linux,CDLC,AWS.
 
 - 💬 Ask  me about anything that you want to learn.
 
