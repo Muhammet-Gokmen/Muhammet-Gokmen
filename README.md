@@ -5,7 +5,7 @@
 
 ### What I'm using ? 🛠
 
-I am working on AWS/DevOps.
+I am working on AWS/DevOps engineer.
 <br/>
 
 - Python, HTML5, CSS3, Network,SQL, Git, GitHub,Linux,CDLC,AWS-DevOps.
