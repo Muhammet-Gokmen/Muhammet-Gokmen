@@ -19,7 +19,7 @@ I am working on AWS/DevOps engineer.If you contact with please connect
 ## 🚀 Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="[https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png](https://www.pngegg.com/en/png-sewqu)" alt="DevOps" width="100" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps" width="100" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python"  height="48"/> </a> 
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"  height="48"/> </a> -->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a> 
