@@ -5,10 +5,10 @@
 
 ### What I'm using ? .🛠
 
-I am working on AWS/DevOps engineer.If you contact with please connect
+I am working on AWS/DevOps engineer.If you contact with please connect 
 <br/>
 
-- Python, HTML5, CSS3, Network,SQL, Git, GitHub,Linux,CDLC,AWS-DevOps,Kubernet,Terraform,Docker,SDLC.
+- Python, HTML5, CSS3, Network,SQL, Git, GitHub,Linux,CDLC,AWS-DevOps,Kubernet,Terraform,Docker,SDLC,Ansible.
 
 
 - 💬 Ask  me about anything that you want to learn or for more information keep in touch me.By
