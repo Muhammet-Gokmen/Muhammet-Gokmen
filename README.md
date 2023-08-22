@@ -5,7 +5,7 @@
 
 ### What I'm using ? . 🛠
 
-I am working on AWS/DevOps engineer.If you contact with please connect ...,
+I am working on AWS/DevOps engineer. If you contact with please connect ...,
 <br/>
 
 - Python, HTML5, CSS3, Network, SQL, Git, GitHub, Linux,CDLC, AWS-DevOps, Kubernet,Terraform,Docker, SDLC, Ansible, Jenkins, Grafana and Prometheus...
