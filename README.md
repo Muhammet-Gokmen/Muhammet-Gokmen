@@ -13,7 +13,7 @@ I am working on AWS/DevOps engineer. If you contact with please connect ... ,
 
 - 💬 Ask me about anything that you want to learn or for more information keep in touch me.By
 
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/muhammet-gokmen-ba708b229/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+-  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/muhammet-gokmen/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 
 ## 🚀 Skills
